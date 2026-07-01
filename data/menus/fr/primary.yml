@@ -37,4 +37,22 @@ items:
   descendants_targets: []
   path: "/pages/serie-1"
   file: content/fr/pages/serie-1/_index.html
+- title: Série 2
+  slug: serie-2
+  target: "/serie-2/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/serie-2"
+  file: content/fr/pages/serie-2/_index.html
+- title: Série 3
+  slug: serie-3
+  target: "/serie-3/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/serie-3"
+  file: content/fr/pages/serie-3/_index.html
 
