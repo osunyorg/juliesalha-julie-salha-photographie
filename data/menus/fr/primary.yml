@@ -28,4 +28,13 @@ items:
   descendants_targets: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
+- title: Série 1
+  slug: serie-1
+  target: "/serie-1/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/serie-1"
+  file: content/fr/pages/serie-1/_index.html
 
