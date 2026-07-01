@@ -19,6 +19,10 @@ from = "/serie-2/index.html"
 to = "/ocean/"
 
 [[redirects]]
+from = "/serie-3/index.html"
+to = "/voyages/"
+
+[[redirects]]
 from = "/serie-1/index.html"
 to = "/portraits/"
 
